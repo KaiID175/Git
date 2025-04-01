@@ -3,6 +3,7 @@ public class PrintHelloWorld{
         	print(5);
 		System.out.println("-----hot-fix------------------");
 		System.out.println("Today is Apr.1th");
+		System.out.println("master at the 2025-4-1");
     }
 	public static void print(int n){
 		for(int i = 1;i <= n;i++){
